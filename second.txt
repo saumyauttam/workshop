@@ -1,0 +1,3 @@
+My name is saumya
+I study in Galgotias University
+I am attending git workshop .
